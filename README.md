@@ -1,9 +1,77 @@
-- 👋 Hi, I’m @Ishmael
-- 🌱 And we are currently the project managers for this group
-- 💞️ We are looking to collaborate successfully with you guys
-- 📫 How to reach me ...0532659891/0208932533
-- 😄 lets do this
-<!---
-Management3/Management3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Ishmael Epaha Mensah
+
+Junior Embedded & Software Engineer
+
+I am a Computer Engineering graduate and currently studying **Software Development at Saxion University of Applied Sciences (Netherlands)**.
+
+I enjoy building systems that combine **software and hardware**, including backend services, embedded systems, and practical engineering applications.
+
+---
+
+## Skills
+
+### Programming
+- Python
+- JavaScript
+- SQL
+- C#
+- C (basic)
+
+### Software Technologies
+- Flask
+- React
+- REST APIs
+- PostgreSQL
+
+### Embedded & Hardware
+- Embedded Systems Fundamentals(control and digital logic)
+- Microcontrollers (Arduino / Embedded C basics)
+- Hardware–Software Integration
+- Basic Electronics & Circuit Design
+- Robotics
+
+
+### Tools
+- Git & GitHub
+- VS Code
+- Linux
+- matlab
+- Plc's
+  
+
+## Featured Project
+
+### Bus Ticket Management System
+
+A full-stack system designed to simplify bus ticket booking and scheduling.
+
+**Technologies used**
+- React (Web Frontend)
+- Flutter (Mobile Application)
+- Flask (Backend API)
+- PostgreSQL (Database)
+
+**My Role — Project Lead & Developer**
+
+Responsibilities:
+- Backend development
+- API design
+- Database design
+- System architecture
+- Frontend contributions
+
+---
+
+## Current Focus
+
+- Embedded systems
+- Backend development
+- Software engineering
+- Hardware–software integration
+
+---
+
+## Contact
+
+GitHub: https://github.com/management3 
+LinkedIn: https://www.linkedin.com/in/mensah-ishmael-epaha-555389370/
